@@ -13,3 +13,4 @@ find nearby loaction with the help of search functionality.
   the specified route comes for routing.( This feature is not avaliable for Indian maps as apple does not support it)
 4. The user location is updated every 100m he travels.
 5. When the user reaches 100 m close to the desired location a alert pops stating that he is near the desired location.
+6. At the bottom of the screen we have a distance tracker that tracks the total distance travelled from the current location to the searched location.
